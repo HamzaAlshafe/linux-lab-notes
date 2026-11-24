@@ -2,7 +2,7 @@
 
 My notes from the Linux Administration Lab (Computer Systems Engineering, AAUP), as a PowerPoint deck.
 
-**File:** `Linux_Lab_Notes.pptx` (72 slides)
+**File:** `Linux_Lab_Notes.pptx` (85 slides)
 
 ## Contents
 
@@ -18,6 +18,7 @@ My notes from the Linux Administration Lab (Computer Systems Engineering, AAUP),
 10. Finding files: `locate`, `find`, `wc`
 11. Permissions: `chmod`, `chown`, `chgrp`
 12. Compression and archiving: `gzip`, `bzip2`, `tar`
-13. Lab tasks with solutions
+13. Special permissions and links: SUID, SGID, sticky bit, inodes, `ln`
+14. Lab tasks and quiz 1, with solutions
 
 The deck is updated after each lab.
